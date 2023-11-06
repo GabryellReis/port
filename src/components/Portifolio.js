@@ -29,9 +29,6 @@ export default function Portifolio() {
               alt=" "
             />
             <br />
-            <a href=" ">
-              <button className="btn btn-success">Acesse</button>
-            </a>
           </div>
         </div>
         <div className="col text-bg-dark">
@@ -52,9 +49,6 @@ export default function Portifolio() {
               alt=" "
             />
             <br />
-            <a href=" ">
-              <button className="btn btn-success">Acesse</button>
-            </a>
           </div>
         </div>
         <div className="col text-bg-dark">
@@ -75,9 +69,6 @@ export default function Portifolio() {
               alt=" "
             />
             <br />
-            <a href=" ">
-              <button className="btn btn-success">Acesse</button>
-            </a>
           </div>
         </div>
         <div className="col text-bg-dark">
@@ -98,9 +89,6 @@ export default function Portifolio() {
               alt=" "
             />
             <br />
-            <a href=" ">
-              <button className="btn btn-success">Acesse</button>
-            </a>
           </div>
         </div>
       </div>

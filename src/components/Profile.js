@@ -21,6 +21,15 @@ export default function Profile() {
           >
             Linkedin
           </a>
+          <br />
+          <br />
+          <a
+            target="_blank"
+            href="https://api.whatsapp.com/send?phone=5564996055737&text=Ol%C3%A1,%20Gabryell%20Reis.%20Visitei%20seu%20perfil%20e%20gostaria%20de%20entrar%20em%20contato%20com%20voc%C3%AA."
+            className="text-bg-dark"
+          >
+            Whatsapp
+          </a>
         </details>
       </div>
       <br />
