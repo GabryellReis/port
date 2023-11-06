@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/port/static/js/main.8ceaf975.js",
+    "static/media/shopping.gif": "/port/static/media/shopping.64cad6844517558c6f2d.gif",
+    "static/media/chat.gif": "/port/static/media/chat.fc5e8f17f9907d5b1621.gif",
+    "static/media/list.gif": "/port/static/media/list.808ef7944a7468354c76.gif",
+    "index.html": "/port/index.html",
+    "main.8ceaf975.js.map": "/port/static/js/main.8ceaf975.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8ceaf975.js"
+  ]
+}
