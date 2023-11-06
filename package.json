@@ -7,7 +7,7 @@
     "starter"
   ],
   "main": "./public/index.html",
-  "homepage": "https://gabryellreis.github.io/port/",
+  "homepage": "https://GabryellReis.github.io/port/",
   "dependencies": {
     "@popperjs/core": "2.11.7",
     "bootstrap": "5.2.3",
