@@ -6,7 +6,7 @@
     "react",
     "starter"
   ],
-  "main": "index.html",
+  "main": "./public/index.html",
   "dependencies": {
     "@popperjs/core": "2.11.7",
     "bootstrap": "5.2.3",
@@ -22,9 +22,10 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "npm run eject"
   },
   "browserslist": [
     ">0.2%",
