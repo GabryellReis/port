@@ -1,13 +1,14 @@
-import { BrowserRouter as Router } from "react-router-dom";
-import { createRoot } from "react-dom/client";
 
+import React from "react";
+import ReactDOM from "react-dom/client";
 import App from "./App";
+import reportWebVitals from "./reportWebVitals";
 
-const rootElement = document.getElementById("root");
-const root = createRoot(rootElement);
-
+const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  <Router basename={process.env.URL}>
+  <React.StrictMode>
     <App />
-  </Router>
+  </React.StrictMode>
 );
+
+reportWebVitals();
