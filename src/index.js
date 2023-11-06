@@ -7,7 +7,7 @@ const rootElement = document.getElementById("root");
 const root = createRoot(rootElement);
 
 root.render(
-  <Router>
+  <Router basename={public/index.html}>
     <App />
   </Router>
 );
